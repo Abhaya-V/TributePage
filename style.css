@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    /* background-image: url("image/0_aDOg4ON6cKUQUNba.webp"); */
+    background-image: linear-gradient(rgba(53, 50, 50, 0.5), rgba(32, 30, 30, 0.6)),url('image/0_aDOg4ON6cKUQUNba.webp');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5px; 
+    text-align: center;
+    color:white; 
+    height: auto;
+}
+.container1{
+    margin-top: 450px;
+}
+
+#id1 {
+    font-size: 70px;
+}
+.bio{
+    background-image:  linear-gradient(rgba(92, 87, 87, 0.5), rgba(90, 84, 84, 0.6)), url(image/wp6598927-a-p-j-abdul-kalam-wallpapers.jpg);
+    background-repeat: no-repeat;
+    height: 1050px;
+    background-size: contain;
+    background-position: center;
+    border: 2px solid rgba(88, 88, 82, 0.062); 
+
+}
+#bio2{
+    margin-left: 50px;
+    font-size: xx-large;
+    color: rgb(214, 36, 23);
+}
+.bio1{
+    margin-left: 60px;
+    list-style: disc;
+}
+#bio3{
+    padding: 30px;
+    font-size: larger;
+}
+#bio3 a{
+    color: brown;
+}
+#quotes{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 40px;
+    font-weight: bold;
+}
+#quotes1{
+    margin-left: 800px;
+}
+footer{
+    background-color: aqua;
+    height:100px;
+    text-align: center;
+}
+footer a{
+    color: brown;
+    font-size: 20px;
+}
